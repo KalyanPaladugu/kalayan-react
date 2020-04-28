@@ -27,7 +27,7 @@ class App extends React.Component  {
       </div>
     )} />
 
-  <Route path="/Resume" exact component={Resume} />
+  <Route path="/kalayan-react/Resume" exact component={Resume} />
     </Router>
     </div>
   );
