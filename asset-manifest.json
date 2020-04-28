@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/kalayan-react/static/css/main.224107a3.chunk.css",
-    "main.js": "/kalayan-react/static/js/main.a979cc4e.chunk.js",
-    "main.js.map": "/kalayan-react/static/js/main.a979cc4e.chunk.js.map",
+    "main.js": "/kalayan-react/static/js/main.dc0f94d5.chunk.js",
+    "main.js.map": "/kalayan-react/static/js/main.dc0f94d5.chunk.js.map",
     "runtime-main.js": "/kalayan-react/static/js/runtime-main.6dcdbf48.js",
     "runtime-main.js.map": "/kalayan-react/static/js/runtime-main.6dcdbf48.js.map",
     "static/js/2.5d4f470c.chunk.js": "/kalayan-react/static/js/2.5d4f470c.chunk.js",
     "static/js/2.5d4f470c.chunk.js.map": "/kalayan-react/static/js/2.5d4f470c.chunk.js.map",
     "index.html": "/kalayan-react/index.html",
-    "precache-manifest.f1e4653ff02911541aba873b5e7500ed.js": "/kalayan-react/precache-manifest.f1e4653ff02911541aba873b5e7500ed.js",
+    "precache-manifest.32c01c30fdfb490c22d52fb010a003e5.js": "/kalayan-react/precache-manifest.32c01c30fdfb490c22d52fb010a003e5.js",
     "service-worker.js": "/kalayan-react/service-worker.js",
     "static/css/main.224107a3.chunk.css.map": "/kalayan-react/static/css/main.224107a3.chunk.css.map",
     "static/js/2.5d4f470c.chunk.js.LICENSE.txt": "/kalayan-react/static/js/2.5d4f470c.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.6dcdbf48.js",
     "static/js/2.5d4f470c.chunk.js",
     "static/css/main.224107a3.chunk.css",
-    "static/js/main.a979cc4e.chunk.js"
+    "static/js/main.dc0f94d5.chunk.js"
   ]
 }
