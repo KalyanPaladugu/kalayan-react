@@ -14,7 +14,7 @@ class App extends React.Component  {
   return (
     <div className="App">
     <Router>
-    <Route exact path='/' render={() =>(
+    <Route exact path='/kalayan-react' render={() =>(
       <div className="col-md-3 offset-4" >
       <div className="card bg-default" style={styles}>
       <div className="card-body" >
@@ -27,7 +27,7 @@ class App extends React.Component  {
       </div>
     )} />
 
-  <Route path="/kalayan-react/Resume" exact component={Resume} />
+  <Route path="/Resume" exact component={Resume} />
     </Router>
     </div>
   );
