@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/kalayan-react/precache-manifest.1c9256052883d0e1e318cc208f2fb11b.js"
+  "/kalayan-react/precache-manifest.f1e4653ff02911541aba873b5e7500ed.js"
 );
 
 self.addEventListener('message', (event) => {

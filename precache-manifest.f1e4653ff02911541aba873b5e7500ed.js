@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "276e5d37008a244e96cac2db619789b0",
+    "revision": "9ff1a8d893d1fab64f6595ca90aa1d96",
     "url": "/kalayan-react/index.html"
   },
   {
-    "revision": "7244ecf7a714f6b1d843",
+    "revision": "33e885d00ba1b739a28f",
     "url": "/kalayan-react/static/css/main.224107a3.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kalayan-react/static/js/2.5d4f470c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7244ecf7a714f6b1d843",
-    "url": "/kalayan-react/static/js/main.28403e5d.chunk.js"
+    "revision": "33e885d00ba1b739a28f",
+    "url": "/kalayan-react/static/js/main.a979cc4e.chunk.js"
   },
   {
     "revision": "c71754b81a1232168502",
