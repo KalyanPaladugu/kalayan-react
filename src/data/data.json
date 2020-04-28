@@ -1,0 +1,21 @@
+{
+  "Basics": {
+		"name": "Kalyan Chakravarthi P",
+		"role": "Front-end Web-Developer",
+		"location": "Guntur, AndhraPradesh",
+		"mobile": "+91 9603487813",
+		"email": "kalyanchakravarthi.1994@gmail.com",
+    "Exp":["Trained more than 1k students on WebDesigning through out AndhraPradesh",
+      "Trained more than 1k students on PWA concepts(Responsive Web Designing,Service worker,IndexedDB,Manifestfile)",
+    "Worked as one of the lead Trainer for Google India Code to Learn contest @2017 in AndhraPradesh"
+  ],
+  "Achievements":"Udacity Front-end Nanodegree Graduate.",
+  "Skill":{
+    "languages":["HTML5","CSS3","JavaScript(ES-6)"],
+    "libraries":["Jquery","ReactJS","HighChartjs"],
+    "databases":["Sql","Mysql"],
+    "frameworks":["Bootstrap","Jasmine"]
+  },
+  "Education":"Completed Bachelor of Technology in Vasireddy Venkatadri Institue of Technology in 2015"
+  }
+}
